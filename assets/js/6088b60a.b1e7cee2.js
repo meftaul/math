@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmath=self.webpackChunkmath||[]).push([[9194],{5299:a=>{a.exports=JSON.parse('{"label":"Chapter Summary","permalink":"/tags/chapter-summary","allTagsPath":"/tags","count":1,"items":[{"id":"Class-9-10/Chapter-01/Chpater-Summary","title":"Chapter Summary","description":"COMMING SOON","permalink":"/Class-9-10/Chapter-01/Chpater-Summary"}]}')}}]);
