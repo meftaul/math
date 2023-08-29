@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmath=self.webpackChunkmath||[]).push([[4474],{309:e=>{e.exports=JSON.parse('{"label":"Problems","permalink":"/math/tags/problems","allTagsPath":"/math/tags","count":1,"items":[{"id":"Class-9-10/Chapter-01/Problems/index","title":"Problems","description":"","permalink":"/math/Class-9-10/Chapter-01/Problems/"}]}')}}]);

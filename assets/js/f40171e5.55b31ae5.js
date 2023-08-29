@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmath=self.webpackChunkmath||[]).push([[5414],{5122:t=>{t.exports=JSON.parse('{"label":"Concept - 1","permalink":"/math/tags/concept-1","allTagsPath":"/math/tags","count":1,"items":[{"id":"Class-9-10/Chapter-01/Concepts/Concept-1","title":"Concept - 1","description":"COMMING SOON","permalink":"/math/Class-9-10/Chapter-01/Concepts/Concept-1"}]}')}}]);

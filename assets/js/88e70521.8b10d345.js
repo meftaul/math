@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmath=self.webpackChunkmath||[]).push([[7944],{8905:e=>{e.exports=JSON.parse('{"label":"Real-Number","permalink":"/tags/real-number","allTagsPath":"/tags","count":1,"items":[{"id":"Class-9-10/Chapter-01/index","title":"Chapter 01 - Real Number","description":"","permalink":"/Class-9-10/Chapter-01/"}]}')}}]);

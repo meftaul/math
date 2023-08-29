@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmath=self.webpackChunkmath||[]).push([[1559],{1774:a=>{a.exports=JSON.parse('{"label":"hello","permalink":"/math/blog/tags/hello","allTagsPath":"/math/blog/tags","count":2}')}}]);
