@@ -14,11 +14,13 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://math.bangla.ai',
-  baseUrl: '/',
+  url: 'https://meftaul.github.io',
+  baseUrl: '/math',
 
   organizationName: 'meftaul',
   projectName: 'math',
+
+  trailingSlash: false,
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
