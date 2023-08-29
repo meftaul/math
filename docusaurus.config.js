@@ -15,7 +15,7 @@ const config = {
 
   // Set the production url of your site here
   url: 'https://meftaul.github.io',
-  baseUrl: '/math',
+  baseUrl: '/math/',
 
   organizationName: 'meftaul',
   projectName: 'math',
