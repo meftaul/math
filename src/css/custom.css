@@ -23,7 +23,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Itim&family=Rancho&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Kalam&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Tiro+Bangla:ital@0;1&display=swap');
 
 :root {
   --ifm-color-primary: #56507c;
@@ -33,7 +33,7 @@
   --ifm-color-primary-light: #5f5888;
   --ifm-color-primary-lighter: #635c8f;
   --ifm-color-primary-lightest: #716a9f;
-  --ifm-font-family-base: 'Kalam', cursive;
+  --ifm-font-family-base: 'Kalam' cursive;
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */

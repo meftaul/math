@@ -1,8 +1,7 @@
 ---
-title: Class 9 and 10
+title: ৯ ও ১০ম শ্রেণী 
 tags:
-  - Class 9-10
-  - Topics
+  - ৯ ও ১০ম শ্রেণী 
 ---
 
 # Chapters

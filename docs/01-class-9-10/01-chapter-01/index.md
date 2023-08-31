@@ -1,10 +1,11 @@
 ---
-title: Chapter 01 - Real Number
+title: অধ্যায় ০১ঃ বাস্তব সংখ্যা 
 tags:
-  - Real-Number
+  - বাস্তব সংখ্যা
 ---
 
-# Chapter 01 - Real Number
+
+
 
 import DocCardList from '@theme/DocCardList';
 
