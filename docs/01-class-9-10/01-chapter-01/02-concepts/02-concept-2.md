@@ -5,8 +5,8 @@ tags:
   - Topics
 ---
 
-:::info
 
-**COMMING SOON**
 
-:::
+import RepearingToFraction from '@site/src/components/math/RepearingToFraction'; 
+
+<RepearingToFraction />
